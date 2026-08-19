@@ -1,1 +1,3 @@
-# Git PR Practice
+# Git PR Practice - CloudShell
+
+- Local PC development
